@@ -22,26 +22,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[GameAnalytics](https://www.gameanalytics.com/)**  
-  Popular free-to-start game analytics platform purpose-built for mobile and multi-platform titles, with strong event tracking, progression, and monetization insights.
-
-- **[Unity Analytics](https://unity.com/products/unity-analytics)**  
-  Built-in analytics solution for Unity games covering player behavior, retention, and performance within the Unity ecosystem.
-
-- **[DeltaDNA](https://deltadna.com/)** (now part of Unity)  
-  Player analytics and engagement platform historically strong in behavioral segmentation and live-ops insights for games.
-
-- **[PlayFab Insights](https://playfab.com/)**  
-  Analytics and data capabilities within Microsoft’s PlayFab backend services for live games.
-
-- **[Amplitude](https://amplitude.com/)** & **[Mixpanel](https://mixpanel.com/)**  
-  Leading general product analytics platforms widely used by game studios for deep funnel, retention, cohort, and behavioral analysis.
-
-- **[Devtodev](https://www.devtodev.com/)**, **[Adjust](https://www.adjust.com/)**, **[AppsFlyer](https://www.appsflyer.com/)**, **[Singular](https://www.singular.net/)**  
-  Specialized mobile measurement, attribution, and game analytics platforms focused on UA, ROAS, and cross-channel insights.
-
-- **[GameRefinery](https://www.gamerefinery.com/)**, **[Data.ai](https://www.data.ai/)**  
-  Market intelligence and competitive analytics tools that complement first-party game analytics with industry and competitor data.
+| Product | Description | Pricing | Free Tier Limit |
+|---------|-------------|---------|-----------------|
+| **[GameAnalytics](https://www.gameanalytics.com/)** | Popular free-to-start game analytics platform purpose-built for mobile and multi-platform titles, with strong event tracking, progression, and monetization insights. | Free | Unlimited |
+| **[Unity Analytics](https://unity.com/products/unity-analytics)** | Built-in analytics solution for Unity games covering player behavior, retention, and performance within the Unity ecosystem. | Pay-as-you-go | 50k MAU / month |
+| **[DeltaDNA](https://deltadna.com/)** (now part of Unity) | Player analytics and engagement platform historically strong in behavioral segmentation and live-ops insights for games. | Custom | N/A |
+| **[PlayFab Insights](https://playfab.com/)** | Analytics and data capabilities within Microsoft’s PlayFab backend services for live games. | Pay-as-you-go | 100k Users |
+| **[Amplitude](https://amplitude.com/)** | Leading general product analytics platform widely used by game studios for deep funnel, retention, cohort, and behavioral analysis. | Freemium / Custom | 100k MTU / month |
+| **[Mixpanel](https://mixpanel.com/)** | Leading general product analytics platform widely used by game studios for deep funnel, retention, cohort, and behavioral analysis. | Freemium / Custom | 20M Events / month |
+| **[Devtodev](https://www.devtodev.com/)** | Specialized mobile measurement, attribution, and game analytics platforms focused on UA, ROAS, and cross-channel insights. | Freemium / Custom | 10k MAU |
+| **[Adjust](https://www.adjust.com/)** | Specialized mobile measurement, attribution, and game analytics platforms focused on UA, ROAS, and cross-channel insights. | Custom | N/A |
+| **[AppsFlyer](https://www.appsflyer.com/)** | Specialized mobile measurement, attribution, and game analytics platforms focused on UA, ROAS, and cross-channel insights. | Freemium / Custom | 12k Conversions |
+| **[Singular](https://www.singular.net/)** | Specialized mobile measurement, attribution, and game analytics platforms focused on UA, ROAS, and cross-channel insights. | Custom | N/A |
+| **[GameRefinery](https://www.gamerefinery.com/)** | Market intelligence and competitive analytics tools that complement first-party game analytics with industry and competitor data. | Custom | N/A |
+| **[Data.ai](https://www.data.ai/)** | Market intelligence and competitive analytics tools that complement first-party game analytics with industry and competitor data. | Custom | N/A |
 
 ## Open-Source GitHub Projects
 
