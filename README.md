@@ -38,20 +38,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## 🏢 SaaS/Hosted Platforms
 
-| Product | Description | Pricing | Free Tier Limit | Valuation/Size |
-|---------|-------------|---------|-----------------|----------------|
-| **[PlayFab Insights](https://playfab.com/)** | Analytics and data capabilities within Microsoft’s PlayFab backend services for live games. | Pay-as-you-go | 100k Users | ~$3T (Microsoft) |
-| **[Unity Analytics](https://unity.com/products/unity-analytics)** | Built-in analytics solution for Unity games covering player behavior, retention, and performance within the Unity ecosystem. | Pay-as-you-go | 50k MAU / month | ~$15B (Unity) |
-| **[DeltaDNA](https://deltadna.com/)** (now part of Unity) | Player analytics and engagement platform historically strong in behavioral segmentation and live-ops insights for games. | Custom | N/A | ~$15B (Unity) |
-| **[AppsFlyer](https://www.appsflyer.com/)** | Specialized mobile measurement, attribution, and game analytics platforms focused on UA, ROAS, and cross-channel insights. | Freemium / Custom | 12k Conversions | ~$2B |
-| **[Amplitude](https://amplitude.com/)** | Leading general product analytics platform widely used by game studios for deep funnel, retention, cohort, and behavioral analysis. | Freemium / Custom | 100k MTU / month | ~$1.5B |
-| **[Data.ai](https://www.data.ai/)** | Market intelligence and competitive analytics tools that complement first-party game analytics with industry and competitor data. | Custom | N/A | ~$1.5B |
-| **[Mixpanel](https://mixpanel.com/)** | Leading general product analytics platform widely used by game studios for deep funnel, retention, cohort, and behavioral analysis. | Freemium / Custom | 20M Events / month | ~$1B |
-| **[Adjust](https://www.adjust.com/)** | Specialized mobile measurement, attribution, and game analytics platforms focused on UA, ROAS, and cross-channel insights. | Custom | N/A | ~$1B |
-| **[Singular](https://www.singular.net/)** | Specialized mobile measurement, attribution, and game analytics platforms focused on UA, ROAS, and cross-channel insights. | Custom | N/A | ~$50M |
-| **[GameAnalytics](https://www.gameanalytics.com/)** | Popular free-to-start game analytics platform purpose-built for mobile and multi-platform titles, with strong event tracking, progression, and monetization insights. | Free | Unlimited | ~$50M |
-| **[Devtodev](https://www.devtodev.com/)** | Specialized mobile measurement, attribution, and game analytics platforms focused on UA, ROAS, and cross-channel insights. | Freemium / Custom | 10k MAU | ~$10M |
-| **[GameRefinery](https://www.gamerefinery.com/)** | Market intelligence and competitive analytics tools that complement first-party game analytics with industry and competitor data. | Custom | N/A | Unknown |
+| Product | Description | Pricing & Free Tier Limits | Valuation/Size |
+|---------|-------------|----------------------------|----------------|
+| **[PlayFab Insights](https://playfab.com/)** | Analytics and data capabilities within Microsoft’s PlayFab backend services for live games. | Pay-as-you-go (Free up to 100k Users) | ~$3T (Microsoft) |
+| **[Unity Analytics](https://unity.com/products/unity-analytics)** | Built-in analytics solution for Unity games covering player behavior, retention, and performance within the Unity ecosystem. | Pay-as-you-go (Free up to 50k MAU / month) | ~$15B (Unity) |
+| **[DeltaDNA](https://deltadna.com/)** (now part of Unity) | Player analytics and engagement platform historically strong in behavioral segmentation and live-ops insights for games. | Custom Enterprise Pricing (No Free Tier) | ~$15B (Unity) |
+| **[AppsFlyer](https://www.appsflyer.com/)** | Specialized mobile measurement, attribution, and game analytics platforms focused on UA, ROAS, and cross-channel insights. | Freemium (Free up to 12k Conversions) | ~$2B |
+| **[Amplitude](https://amplitude.com/)** | Leading general product analytics platform widely used by game studios for deep funnel, retention, cohort, and behavioral analysis. | Freemium (Free up to 100k MTU / month) | ~$1.5B |
+| **[Data.ai](https://www.data.ai/)** | Market intelligence and competitive analytics tools that complement first-party game analytics with industry and competitor data. | Custom Enterprise Pricing (No Free Tier) | ~$1.5B |
+| **[Mixpanel](https://mixpanel.com/)** | Leading general product analytics platform widely used by game studios for deep funnel, retention, cohort, and behavioral analysis. | Freemium (Free up to 20M Events / month) | ~$1B |
+| **[Adjust](https://www.adjust.com/)** | Specialized mobile measurement, attribution, and game analytics platforms focused on UA, ROAS, and cross-channel insights. | Custom Enterprise Pricing (No Free Tier) | ~$1B |
+| **[Singular](https://www.singular.net/)** | Specialized mobile measurement, attribution, and game analytics platforms focused on UA, ROAS, and cross-channel insights. | Custom Enterprise Pricing (No Free Tier) | ~$50M |
+| **[GameAnalytics](https://www.gameanalytics.com/)** | Popular free-to-start game analytics platform purpose-built for mobile and multi-platform titles, with strong event tracking, progression, and monetization insights. | 100% Free (Unlimited Usage) | ~$50M |
+| **[Devtodev](https://www.devtodev.com/)** | Specialized mobile measurement, attribution, and game analytics platforms focused on UA, ROAS, and cross-channel insights. | Freemium (Free up to 10k MAU) | ~$10M |
+| **[GameRefinery](https://www.gamerefinery.com/)** | Market intelligence and competitive analytics tools that complement first-party game analytics with industry and competitor data. | Custom Enterprise Pricing (No Free Tier) | Unknown |
 
 ## 🌐 Open-Source GitHub Projects
 
