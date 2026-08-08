@@ -1,6 +1,6 @@
 # Awesome-Game-Analytics
 
-# Top Game Analytics Tools Ecosystem
+## Top Game Analytics Tools Ecosystem
 
 **Curated List of SaaS/Commercial Products & Open-Source GitHub Projects**  
 *Focused on In-Game Event Tracking, Player Behavior, Retention, Monetization, Attribution & Product Analytics for Games*  
